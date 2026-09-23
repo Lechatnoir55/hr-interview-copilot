@@ -4,7 +4,8 @@ An end-to-end HR interview scheduling solution built with Microsoft Copilot Stud
 
 ## 🚀 Architecture
 
-![Agent Overview](images/Agent-Overview.PNG-Copilot-Architecture.png
+<img width="1914" height="1071" alt="image" src="https://github.com/user-attachments/assets/563604e0-4073-4d53-a6c1-b4970c7829f7" />
+
 
 ## ✨ Features
 
@@ -24,15 +25,15 @@ An end-to-end HR interview scheduling solution built with Microsoft Copilot Stud
 
 ### Agent Overview
 
-images/Agent-Overview.PNG
+<img width="1827" height="778" alt="image" src="https://github.com/user-attachments/assets/226b81d7-4e3b-48a8-ae85-64df3195e9e6" />
 
 ### Teams Meeting Created
 
-images/Teams-Meeting-Invitation-Screenshot.png
+<img width="1716" height="747" alt="image" src="https://github.com/user-attachments/assets/6ce0ea7d-3217-4cf9-b548-0104f21d3ff8" />
 
 ### Interview Scheduling
 
-images/Interview-Mail-Received.png
+<img width="1586" height="765" alt="image" src="https://github.com/user-attachments/assets/b80c1417-0b6d-4b99-9049-7f68abdd9547" />
 
 ## 🔮 Future Enhancements
 
