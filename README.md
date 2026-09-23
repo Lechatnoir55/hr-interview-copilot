@@ -4,7 +4,7 @@ An end-to-end HR interview scheduling solution built with Microsoft Copilot Stud
 
 ## 🚀 Architecture
 
-images/Interview-Copilot-Architecture.png
+![Agent Overview](images/Agent-Overview.PNG-Copilot-Architecture.png
 
 ## ✨ Features
 
